@@ -1,0 +1,13 @@
+# ninja log v5
+0	1918	1701147791134536605	CMakeFiles/lifeExpectancyCalculator.dir/main.cpp.o	33f0ab873b460e2e
+1925	2081	1701147791299163197	lifeExpectancyCalculator	6fa83f1f9609928
+5	1692	1701148133267139154	CMakeFiles/lifeExpectancyCalculator.dir/main.cpp.o	33f0ab873b460e2e
+1692	1879	1701148133463034710	lifeExpectancyCalculator	6fa83f1f9609928
+4	1276	1701148400258246933	CMakeFiles/lifeExpectancyCalculator.dir/main.cpp.o	33f0ab873b460e2e
+1276	1421	1701148400404725243	lifeExpectancyCalculator	6fa83f1f9609928
+3	2045	1701148610663136052	CMakeFiles/lifeExpectancyCalculator.dir/main.cpp.o	33f0ab873b460e2e
+2045	2202	1701148610827134548	lifeExpectancyCalculator	6fa83f1f9609928
+6	1770	1701148841995619377	CMakeFiles/lifeExpectancyCalculator.dir/main.cpp.o	33f0ab873b460e2e
+1771	1909	1701148842136423010	lifeExpectancyCalculator	6fa83f1f9609928
+22	2552	1701149702513137186	CMakeFiles/lifeExpectancyCalculator.dir/main.cpp.o	33f0ab873b460e2e
+2552	2808	1701149702776716979	lifeExpectancyCalculator	6fa83f1f9609928
